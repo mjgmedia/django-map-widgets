@@ -53,7 +53,7 @@ msgstr "Np. 28.979530"
 
 #: templates/mapwidgets/google-point-field-widget.html:18
 msgid "Done"
-msgstr "Zakończ"
+msgstr "Zamknij"
 
 #: templates/mapwidgets/google-point-field-widget.html:22
 msgid "Use My Location"
