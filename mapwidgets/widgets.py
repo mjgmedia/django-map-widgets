@@ -69,7 +69,7 @@ class GooglePointFieldWidget(BasePointFieldMapWidget):
         }
 
         js = [
-            "https://code.jquery.com/jquery-3.3.1.slim.min.js",
+            "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
             "https://maps.googleapis.com/maps/api/js?libraries=places&language={}&key={}".format(
                 mw_settings.LANGUAGE, mw_settings.GOOGLE_MAP_API_KEY
             )
